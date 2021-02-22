@@ -1,0 +1,107 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+84
+"SOTFWEEK                                                      Maker Nicolas Casas "
+4
+1
+32
+"please enter a number from 1-7"
+5
+1
+5
+V_DAY
+7
+0
+1
+18
+V_DAY>7 OR V_DAY<0
+7
+0
+1
+7
+V_DAY=7
+7
+0
+1
+7
+V_DAY=6
+7
+0
+1
+7
+V_DAY=5
+7
+0
+1
+7
+V_DAY=4
+7
+0
+1
+7
+V_DAY=3
+7
+0
+1
+7
+V_DAY=2
+7
+0
+1
+7
+V_DAY=1
+13
+4
+1
+20
+"Today it is Monday"
+13
+13
+4
+1
+21
+"Today it is Tuesday"
+13
+13
+4
+1
+23
+"Today it is Wednesday"
+13
+13
+4
+1
+22
+"Today it is Thursday"
+13
+13
+4
+1
+20
+"Today it is Friday"
+13
+13
+4
+1
+22
+"Today it is Saturday"
+13
+13
+4
+1
+20
+"Today it is Sunday"
+13
+13
+4
+1
+52
+"ERR:a week only has 7 days and not negative values"
+13
+1

@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+93
+"Holo buenos dias                                                           Como te llamas? "
+5
+1
+6
+V_name
+4
+1
+95
+"Mucho gusto " , V_name, " un gusto conocerle                             Cuantos años tienes?"
+5
+1
+5
+V_age
+7
+0
+1
+9
+V_age>=18
+4
+1
+142
+"Lo sentimos                                                                             usted no tiene autorizacion para ingresar al sistema"
+13
+4
+1
+42
+"Bienvenido al sistema usted es un adulto"
+13
+1
