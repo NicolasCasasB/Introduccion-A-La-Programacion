@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+226
+"StudentSoft                                                                         Maker: Nicolas Casas Bello                                              This software is when you enter a student is graders in the semester"
+4
+1
+29
+"enter the 4 grades obtained"
+5
+1
+7
+V_nota1
+5
+1
+7
+V_nota2
+5
+1
+7
+V_nota3
+5
+1
+7
+V_nota4
+7
+0
+1
+101
+V_nota1<0 OR V_nota1>5 OR V_nota2<0 OR V_nota2>5 OR V_nota3<0 OR V_nota3>5 OR V_nota4<0 OR V_nota4>5 
+6
+1
+12
+V_nota_total
+51
+V_nota1*0.20+V_nota2*0.25+V_nota3*0.25+V_nota4*0.30
+4
+1
+46
+"The weighed of your notes is: " ,V_nota_total
+13
+4
+1
+37
+"ERR:some of the notes are invalidid"
+13
+1

@@ -1,0 +1,74 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+186
+"SOFTCOMPAREAGE                                                          MAKER: Nicolas Casas Bello                                            this software compare birth of two person" 
+4
+1
+43
+"Imput the year birth of the firsts person"
+5
+1
+6
+V_year
+4
+1
+46
+"Imput the year of birth of the second person"
+5
+1
+7
+V_year2
+7
+0
+1
+29
+V_year >2021 OR V_year2 >2021
+6
+2
+6
+V_age1
+11
+2021-V_year
+6
+V_age2
+12
+2021-V_year2
+7
+0
+1
+13
+V_age1=V_age2
+7
+0
+1
+13
+V_age1<V_age2
+4
+1
+27
+"the youngest is ", V_year2
+13
+4
+1
+26
+"the youngest is ", V_year
+13
+13
+4
+1
+19
+"The both are same"
+13
+13
+4
+1
+69
+"ERR: Some of the year types are wrong - both show be less than 2021"
+13
+1

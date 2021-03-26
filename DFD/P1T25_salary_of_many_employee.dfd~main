@@ -1,0 +1,107 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+251
+"Soft_salary                                                                     Maker:Nicolas Casas                                                         This software calculate the average_salary-total salary and the highest salary by N employees"
+4
+1
+27
+"input the total employees"
+5
+1
+14
+V_total_employ
+7
+0
+1
+18
+V_total_employ <=0
+6
+3
+13
+V_average_sal
+1
+0
+11
+V_total_sal
+1
+0
+11
+V_higth_sal
+1
+0
+8
+1
+1
+I
+1
+1
+1
+1
+14
+V_total_employ
+1
+1
+1
+4
+1
+45
+"input the gross salary for the employess ",I
+5
+1
+11
+V_gross_sal
+4
+1
+41
+"input the working days for employees ",I
+5
+1
+11
+V_work_days
+6
+2
+5
+V_sal
+30
+(V_gross_sal/30) * V_work_days
+11
+V_total_sal
+19
+V_total_sal + V_sal
+7
+0
+1
+17
+V_sal>V_higth_sal
+13
+6
+1
+11
+V_higth_sal
+5
+V_sal
+13
+10
+6
+1
+13
+V_average_sal
+26
+V_total_sal/V_total_employ
+4
+1
+114
+"the salary is ",V_total_sal , " and the average is " , V_average_sal, " and the highest salary is  ",V_higth_sal 
+13
+4
+1
+50
+"ERR:The number entered cannot be less than zero "
+13
+1

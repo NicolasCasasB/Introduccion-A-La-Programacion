@@ -1,0 +1,296 @@
+ Dfd (c)
+1
+1
+6
+0
+0
+4
+1
+208
+"Soft-calculator                                                                    Maker: Nicolas Casas                                                          This software calculator sum-rest-multi-divis"
+12
+1
+15
+P_valida_option
+1
+8
+V_option
+9
+1
+12
+V_option !=0
+7
+0
+1
+10
+V_option=1
+7
+0
+1
+12
+V_option = 2
+7
+0
+1
+10
+V_option=3
+12
+1
+7
+P_divis
+0
+13
+12
+1
+7
+P_multi
+0
+13
+13
+12
+1
+10
+P_subtract
+0
+13
+13
+12
+1
+5
+P_sum
+0
+13
+12
+1
+15
+P_valida_option
+1
+8
+V_option
+11
+1
+2
+1
+5
+P_sum
+0
+1
+53
+in this subprogram calculete the sum for many numbers
+4
+1
+45
+"Sum enter the total numbers do you want sum"
+5
+1
+14
+V_total_number
+6
+1
+5
+V_sum
+1
+0
+8
+1
+1
+I
+1
+1
+1
+1
+14
+V_total_number
+1
+1
+1
+4
+1
+23
+"imput the number ", I 
+5
+1
+8
+V_number
+6
+1
+5
+V_sum
+16
+V_sum + V_number
+10
+4
+1
+27
+"the total sum is " , V_sum
+3
+2
+1
+10
+P_subtract
+0
+1
+37
+this subprogramme subtracts 2 numbers
+4
+1
+96
+"Subtract                                                                Imput the first number"
+5
+1
+9
+V_number1
+4
+1
+25
+"imput the second number"
+5
+1
+9
+V_number2
+6
+1
+10
+V_subtract
+21
+V_number1 - V_number2
+4
+1
+31
+"the subtract is " , V_subtract
+3
+2
+1
+15
+P_valida_option
+1
+8
+V_option
+1
+51
+in this subprogramme validates the option you chose
+4
+1
+435
+"Put the chosen option:                                                     1=Sum                                                                                   2=Subtract                                                                              3=Multi                                                                                   4=Divis                                                                           0=To exit "
+5
+1
+8
+V_option
+9
+1
+87
+V_option != 1 AND V_option != 2 AND V_option != 3 AND V_option != 4  AND V_option != 0 
+4
+1
+492
+"ERR: your option dont exist                                       please imput again your option                                    1=Sum                                                                                   2=Subtract                                                                              3=Multi                                                                                   4=Divis                                                                           0=To exit "
+5
+1
+8
+V_option
+11
+3
+2
+1
+7
+P_multi
+0
+1
+28
+this subprogramme multiplies
+4
+1
+63
+"Multiplier enter the total numbers do you want multiplication"
+5
+1
+14
+V_total_number
+6
+1
+7
+V_multi
+1
+1
+8
+1
+1
+I
+1
+1
+1
+1
+14
+V_total_number
+1
+1
+1
+4
+1
+23
+"imput the number ", I 
+5
+1
+8
+V_number
+6
+1
+7
+V_multi
+18
+V_multi * V_number
+10
+4
+1
+40
+"the total multiplication is " , V_multi
+3
+2
+1
+7
+P_divis
+0
+1
+55
+this program calculate the division between two numbers
+4
+1
+110
+"Division                                                                          Imput the numerator number"
+5
+1
+11
+V_numerator
+4
+1
+26
+"Imput the divisor number"
+5
+1
+9
+V_divisor
+9
+1
+11
+V_divisor=0
+4
+1
+35
+"ERR:The divider shouldn't be zero"
+5
+1
+9
+V_divisor
+11
+6
+1
+7
+V_divis
+23
+V_numerator / V_divisor
+4
+1
+28
+"the division is " , V_divis
+3

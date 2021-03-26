@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+174
+"SoftshowNnumbers                                                        Maker:Nicolas Casas                                                    This software show a cicle for
+4
+1
+24
+"input the total number"
+5
+1
+9
+V_total_n
+7
+0
+1
+12
+V_total_n=<0
+8
+1
+1
+I
+1
+1
+1
+1
+9
+V_total_n
+1
+1
+1
+4
+1
+24
+"The number cicle is ",I
+10
+13
+4
+1
+30
+"ERR: the number is invalided"
+13
+1

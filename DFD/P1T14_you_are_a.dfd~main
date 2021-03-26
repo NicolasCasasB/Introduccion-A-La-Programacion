@@ -1,0 +1,78 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+199
+"AGESOFT                                                                       MAKER: Nicolas Casas Bello                                                This software determine the age of the person"
+4
+1
+16
+"enter your age"
+5
+1
+5
+V_age
+7
+0
+1
+7
+V_age<0
+7
+0
+1
+9
+V_age<=12
+7
+0
+1
+9
+V_age<=18
+7
+0
+1
+9
+V_age<=45
+7
+0
+1
+9
+V_age<=90
+4
+1
+20
+"you are matusalen "
+13
+4
+1
+23
+"you are a older adult"
+13
+13
+4
+1
+17
+"you are a adult"
+13
+13
+4
+1
+22
+"you are a adolescent"
+13
+13
+4
+1
+17
+"you are a child"
+13
+13
+4
+1
+46
+"ERR: at that age you have not been born yet" 
+13
+1

@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+254
+"SOFTSALARY                                                                        Maker Nicolas Casas Bello                                                  This software allows you to calculate the salary of an employee based onthe thays he has worked"
+4
+1
+20
+"imput worked days "
+5
+1
+6
+V_days
+4
+1
+14
+"imput sueldo"
+5
+1
+8
+V_sueldo
+7
+0
+1
+42
+V_days < 0 OR V_days > 30 OR V_sueldo <= 0
+6
+1
+8
+V_salary
+24
+(V_sueldo/30 ) *  V_days
+4
+1
+38
+"the employee is salary is:" ,V_salary
+13
+4
+1
+33
+" ERR: some of the data is wrong"
+13
+1

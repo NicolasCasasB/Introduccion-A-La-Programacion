@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+205
+"Softpayment V1.0                                             Maker:Nicolas Casas                                                        this sorfware add the values of the four product and add IVA of 19%"
+4
+1
+39
+"enter the value of the four products" 
+5
+1
+10
+V_product1
+5
+1
+10
+V_product2
+5
+1
+10
+V_product3
+5
+1
+10
+V_product4
+7
+0
+1
+68
+V_product1 < 0 OR V_product2 < 0 OR V_product3 < 0 OR V_product4 < 0
+6
+3
+12
+V_finalvalue
+43
+V_product1+V_product2+V_product3+V_product4
+13
+V_finalvalue2
+17
+V_finalvalue*0.19
+7
+V_Total
+26
+V_finalvalue2+V_finalvalue
+4
+1
+389
+"Product1: " ,V_product1,                         " Product2: " ,V_product2,                                                     " Product3: " ,V_product3,                                                " Product4: " ,V_product4,                                                " Total value: " ,V_finalvalue,                                                 " Total value + IVA: "  ,V_Total
+13
+4
+1
+211
+"ERR: Some value of the products is wrongly entered                                                          Please rectify                                                      It must not have negative symbols"
+13
+1
