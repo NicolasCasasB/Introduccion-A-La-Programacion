@@ -1,0 +1,82 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+218
+"Soft_average_grades                                                      Maker:Nicolas Casas                                                       This software calculeted the average the final grades for N students" 
+4
+1
+26
+"input the total students"
+5
+1
+9
+V_total_s
+7
+0
+1
+12
+V_total_s<=0
+6
+2
+5
+V_sum
+1
+0
+9
+V_average
+1
+0
+8
+1
+1
+I
+1
+1
+1
+1
+9
+V_total_s
+1
+1
+1
+4
+1
+53
+"Imput the Grade 1-Grade 2-Grade 3 of the student ",I
+5
+1
+17
+V_G1, V_G2, V_G3 
+6
+2
+13
+V_final_grade
+30
+V_G1*0.2 + V_G2*0.3 + V_G3*0.5
+5
+V_sum
+21
+V_sum + V_final_grade
+10
+6
+1
+9
+V_average
+15
+V_sum/V_total_s
+4
+1
+45
+"The average for the students is  ",V_average
+13
+4
+1
+45
+"ERR:The total students should be grather >0"
+13
+1

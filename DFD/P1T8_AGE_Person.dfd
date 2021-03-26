@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+217
+"AGESOFT                                                                      MAKER: Nicolas Casas Bello                                                This software use the year of birth to calculate age of a person"
+4
+1
+24
+"Type the year of birth"
+5
+1
+11
+V_yearbirth
+7
+0
+1
+16
+V_yearbirth>2021
+6
+1
+5
+V_age
+17
+2021 -V_yearbirth
+4
+1
+45
+"The age of person is: ", v_age ," years old"
+13
+4
+1
+73
+"ERR: This year is not valid-the yeard of birth should be less than 2021"
+13
+1
