@@ -1,0 +1,77 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+206
+"Softlower                                                           Maker Nicolas Casas                                          this software calculate the sum and the average for number grather than 100"
+6
+3
+5
+V_sum
+1
+0
+9
+V_average
+1
+0
+7
+V_count
+1
+0
+4
+1
+18
+"imput the number"
+5
+1
+8
+V_number
+9
+1
+13
+V_number>=100
+6
+2
+5
+V_sum
+14
+V_sum+V_number
+7
+V_count
+9
+V_count+1
+4
+1
+18
+"imput the number"
+5
+1
+8
+V_number
+11
+7
+0
+1
+9
+V_count=0
+6
+1
+9
+V_average
+13
+V_sum/V_count
+4
+1
+85
+" the sum is ", V_sum, " and the average is ", V_average, " for ", V_count, " number"
+13
+4
+1
+46
+"ERR: the total number over that 100 are zero"
+13
+1

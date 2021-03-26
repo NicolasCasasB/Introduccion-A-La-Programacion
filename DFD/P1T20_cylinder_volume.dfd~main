@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+213
+"SoftVolume of cylender                                                          Maker Nicolas Casas Bello                                             This software allos you to calculate the volume of a cylinder"
+4
+1
+13
+"imput radio"
+5
+1
+7
+V_radio
+4
+1
+14
+"imput altura"
+5
+1
+8
+V_altura
+7
+0
+1
+29
+V_radio <= 0 OR V_altura <= 0
+6
+3
+2
+r2
+15
+V_radio*V_radio
+2
+pi
+6
+3.1416
+1
+V
+14
+pi*r2*V_altura
+4
+1
+19
+"the volume is:" ,V
+13
+4
+1
+45
+"ERR the numbers that were entered are wrong"
+13
+1

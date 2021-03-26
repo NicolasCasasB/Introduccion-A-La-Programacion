@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+218
+"EvenOrOddSoft                                                                     Maker: Nicolas Casas Bello                                             This software was made to calculate if a number is even or odd."
+4
+1
+31
+"Please imput a whole number: "
+5
+1
+8
+V_number
+6
+1
+8
+V_Ntotal
+14
+v_number mod 2
+7
+0
+1
+12
+V_Ntotal = 0
+4
+1
+33
+"The number:", V_number," is odd"
+13
+4
+1
+34
+"The number:", V_number," is even"
+13
+1

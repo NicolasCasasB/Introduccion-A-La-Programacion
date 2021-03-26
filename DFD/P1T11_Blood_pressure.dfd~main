@@ -1,0 +1,82 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+165
+"P1T11_Blood_pressure Makers Juan Felipe Villanueva- Nicolas Casas- Daniel Esteban Bernal This software can show  if you have hypertension or normal blood pressure "
+4
+1
+29
+"Put your systollic pressure"
+5
+1
+8
+Systolic
+4
+1
+33
+"Now put your diastolic pressure"
+5
+1
+9
+Diastolic
+7
+0
+1
+33
+Systolic <= 60 or Diastolic <= 60
+7
+0
+1
+32
+Systolic < 120 or Diastolic < 80
+7
+0
+1
+72
+Systolic>= 120 or Systolic <= 139 and Diastolic >= 80 or Diastolic <= 89
+7
+0
+1
+71
+Systolic >=140 or Systolic <=150 and Diastolic >= 90 or Diastolic <= 99
+7
+0
+1
+32
+Systolic >=160 or Diastolic>=100
+13
+4
+1
+72
+"you have hypertension stage2 whit",Systolic,"mmhg and",Diastolic,"mmhg"
+13
+13
+4
+1
+72
+"you have hypertension stage1 whit",Systolic,"mmhg and",Diastolic,"mmhg"
+13
+13
+4
+1
+71
+"you have a pre-hypertencion whit",Systolic,"mmhg and",Diastolic,"mmhg"
+13
+13
+4
+1
+79
+"you have a normal arterial pressure whit",Systolic,"mmhg and",Diastolic,"mmhg"
+13
+13
+4
+1
+31
+"ERR you put a incorrect value"
+13
+1
